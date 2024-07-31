@@ -1,1 +1,1 @@
-#Zomato SQL File
+Zomato SQL File
